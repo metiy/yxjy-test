@@ -1,0 +1,4 @@
+mcuversion = "2.2.6"
+mcu_url = "https://github.com/metiy/yxjy-test/blob/master/VTDR_USER.bin?raw=true"
+mcu_md5 = "dd8247d4da02e810b2f5c30172703989"
+
